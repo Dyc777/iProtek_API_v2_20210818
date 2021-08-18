@@ -1,0 +1,1 @@
+server=192.168.10.201;user=admin01;database=iprotek_master;port=3306;password=1qaz2WSX?;charset=utf8;
